@@ -21,3 +21,39 @@ aun no visualizo
 
 
 se modifico aun no se modifica nada 
+
+
+parte3: lista de peliculas
+
+
+Crea src/components/ListaPeliculas.jsx que reciba el array de películas por props. 2. Recorre el array con .map() y renderiza un PeliculaCard por cada película. 5
+
+Programación Front End (TI3031) - Sumativa U3 - V1 3. Asigna correctamente la prop key usando el id de cada elemento (no uses el índice del 4. En App.jsx, renderiza ListaPeliculas pasándole los datos importados
+
+
+paRTE 4:ESTADO Y FILTRO
+crea src/components/FiltroClasificacion.jsx con botones o un selector para filtrar por la claisificacion:"Todas","TE, "+14","+18".
+
+En App.jsx, usa useState para guardar el filtro seleccionado y un campo de búsqueda por titulo
+Aplica ambos filtros sobre el array antes de pasarlo a ListaPeliculas.
+Usa renderizado condicional para mostrar el mensaje "No hay películas que coincidan" cuando el resultado
+ quede vacío. Buenas prácticas de desarrollo seguro obligatorias:· El campo de búsqueda debe ser un componente controlado (su valor vive en el estado de usarlo, para no confiar ciegamente en la entrada del usuario) · Valida y normaliza el texto de búsqueda (recorta espacios y limita el largo) 
+
+
+SIRVIO:
+ si sirvio 
+ 
+ 
+ PARTE 5:
+
+
+Resalta visualmente los elementos con funcionHoy: 
+true (por ejemplo, una etiqueta "HOY" o un borde distinto). 2. Agrega un contador que muestre cuántas películas se exhiben hoy. 3. Verifica que toda la app corre sin errores ni warnings en consola.
+
+sirvio:
+
+si quedo como lo solicitan 
+
+modificaciones:
+
+no se alcanzo a realizar algunas modificaciones 
