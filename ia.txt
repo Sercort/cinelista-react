@@ -1,9 +1,23 @@
 
 registro uso de ia 
-
+ parte 1 
 prompt:
-
+ Crea src/components/PeliculaCard.jsx.
+  3. Muestra la información de forma visual y ordenada. 0) 2. El componente recibe por props: titulo, genero, duracion, clasificacion, sinopsis, horarios. 4. Aplica un estilo diferenciado según la clasificación (un color/etiqueta distinto para TE, +14, +18).
+   Buenas prácticas de desarrollo seguro obligatorias en este componente: · Define los tipos de las props con PropTypes (o documenta claramente cada prop) y entrega valores por defecto para evitar errores cuando falte un dato. · Renderiza el texto siempre como contenido JSX normal.
+    No uses dangerouslySetInnerHTML. 
+   · No dejes credenciales, claves ni datos sensibles escritos en el código.
 sirvio:
-
+no se si  sirvio aun no visualizo nada 
 que se modifico:
+no se modifico nada 
 
+
+parte 2 prompt
+Crea src/components/ListaPeliculas.jsx que reciba el array de películas por props. 2. Recorre el array con .map() y renderiza un PeliculaCard por cada película.
+ 
+ sirvio:
+aun no visualizo 
+
+
+se modifico aun no se modifica nada 
